@@ -1,9 +1,10 @@
 # MMT
-Bước 1: Tải source code và cơ sở dữ liệu tại đây(Github).
-Bước 2: Mở 1 terminal và chạy lệnh python server.py (hoặc python3 sever.py nếu bạn dùng phiên bản python3)
-Bước 3: Mở thêm 1 terminal và chạy lệnh python client.py (hoặc python3 client.py nếu bạn dùng phiên bản python3) và sử dụng các tính upload và download tùy mục đích
-Bước 4: Dùng username và password bất kì để vào 
-Danh sách các username và password:
+1. Bước 1: Tải source code và cơ sở dữ liệu tại đây(Github).
+2. Bước 2: Mở 1 terminal và chạy lệnh python server.py (hoặc python3 sever.py nếu bạn dùng phiên bản python3)
+3. Bước 3: Mở thêm 1 terminal và chạy lệnh python client.py (hoặc python3 client.py nếu bạn dùng phiên bản python3) và sử dụng các tính upload và download tùy mục đích
+4. Bước 4: Dùng username và password bất kì để vào 
+
+## Danh sách các username và password:
    {
         "username" : "admin1",
         "password" : "1"
