@@ -1,4 +1,7 @@
-# MMT
+# Mạng máy tính
+
+
+## Cách khởi chạy project
 1. Bước 1: Tải source code và cơ sở dữ liệu tại đây(Github).
 2. Bước 2: Mở 1 terminal và chạy lệnh python server.py (hoặc python3 sever.py nếu bạn dùng phiên bản python3)
 3. Bước 3: Mở thêm 1 terminal và chạy lệnh python client.py (hoặc python3 client.py nếu bạn dùng phiên bản python3) và sử dụng các tính upload và download tùy mục đích
@@ -18,7 +21,7 @@
         "password" : "3"
     }
 
-# Hướng dẫn upload
+## Hướng dẫn upload
 Bước 1: Bấm vào button "Upload"
 Bước 2: Bấm vào button "Choose File"
 Bước 3: Chọn file cần upload
@@ -26,7 +29,7 @@ Bước 4: Nhập tên file vào phần "Filename to upload"
 Bước 5: Sau đó bấm vào button "File to Upload"
 Bước 6: Sau khi upload thành công, vào database.json để kiểm tra
 
-# Hướng dẫn download
+## Hướng dẫn download
 Bước 1: Bấm vào button "Download"
 Bước 2: Điền tên file cần download vào phần "Filename to Download"
 Bước 3: Bấm vào button "Search File To Download"
